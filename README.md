@@ -2,8 +2,9 @@ This script is incredibly basic and will take the old format of ones LM Studio c
 
 It simply requires an Input and Output directory and prompts as such:
 
-Enter the directory containing old LM Studio chat files:
-Enter the directory to save converted files:
+```Enter the directory containing old LM Studio chat files:```
+
+```Enter the directory to save converted files:```
 
 Under Windows, just use the standard folder path,  D:\Path_to_your\Old_LM_Studio\Conversations
 
